@@ -7,7 +7,7 @@ Fiverr Message Notifier is a Chrome extension that alerts you whenever you have 
 1. Download or clone the repository:
     * Run the following command in your terminal:
       ```bash
-      git clone <repository-url>
+      git clone <https://github.com/asufian97/fiverr-message-notifier>
       ```
 2. Open the Chrome extensions page:
     * Navigate to `chrome://extensions/` in your browser.
