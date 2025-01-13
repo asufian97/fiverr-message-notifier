@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "Fiverr Message Notifier",
+    "version": "1.0",
+    "description": "Notifies you when there are unread messages on Fiverr.",
+    "permissions": ["activeTab", "scripting", "notifications", "alarms"],
+    "host_permissions": ["https://www.fiverr.com/*"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      }
+    },
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+  
