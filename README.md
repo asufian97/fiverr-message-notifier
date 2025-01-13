@@ -25,14 +25,16 @@ Once installed, the extension will monitor Fiverr for unread messages. When a me
 
 ## Folder Structure
 
+```python
 fiverr-message-notifier/
-├── manifest.json          # Main configuration file for the extension
-├── background.js          # Background script to monitor Fiverr for unread messages
-├── popup.html             # HTML for the extension popup (optional)
-├── icon16.png             # 16x16 icon for the extension
-├── icon48.png             # 48x48 icon for the extension
-├── icon128.png            # 128x128 icon for the extension
-├── README.md              # Documentation for the project
+├── manifest.json      
+├── background.js         
+├── popup.html           
+├── icon16.png          
+├── icon48.png           
+├── icon128.png    
+├── README.md       
+```
 
 
 # Documentation for the project
